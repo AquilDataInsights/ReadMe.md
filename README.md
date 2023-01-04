@@ -1,4 +1,3 @@
-# ReadMe.md
 Hi 👋 My name is Aquil Ahmad
 ============================
 
